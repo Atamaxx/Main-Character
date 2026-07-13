@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 133253f56854570409c222a87786b263
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161631
+  packageName: FMOD for Unity
+  packageVersion: 2.02.26
+  assetPath: Assets/Plugins/FMOD/src/FMODEventTrack.cs
+  uploadId: 717736
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

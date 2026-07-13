@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 19ee165b8493b754dae94486bf0c9540
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4619782899615680844
+    second: Blood_Stain_1_0
+  - first:
+      213: 4968017791524436156
+    second: Blood_Stain_1_1
+  - first:
+      213: -7025677181955284008
+    second: Blood_Stain_1_2
+  - first:
+      213: -180026890606193651
+    second: Blood_Stain_1_3
+  - first:
+      213: -3792226180460765698
+    second: Blood_Stain_1_4
+  - first:
+      213: 1816764299554994250
+    second: Blood_Stain_1_5
+  - first:
+      213: 1207045911529004537
+    second: Blood_Stain_1_6
+  - first:
+      213: 8591209716987411953
+    second: Blood_Stain_1_7
+  - first:
+      213: 8995536764351848032
+    second: Blood_Stain_1_8
+  - first:
+      213: 2518384335609241873
+    second: Blood_Stain_1_9
+  - first:
+      213: -4784741595580369069
+    second: Blood_Stain_1_10
+  - first:
+      213: 7043234295859442626
+    second: Blood_Stain_1_11
+  - first:
+      213: -2470493322351979555
+    second: Blood_Stain_1_12
+  - first:
+      213: 1584963411293883055
+    second: Blood_Stain_1_13
+  - first:
+      213: 796709633097050559
+    second: Blood_Stain_1_14
+  - first:
+      213: 846802643391858885
+    second: Blood_Stain_1_15
+  - first:
+      213: -5492057352932430556
+    second: Blood_Stain_1_16
+  - first:
+      213: 6951277989344390134
+    second: Blood_Stain_1_17
+  - first:
+      213: 5884994331100859351
+    second: Blood_Stain_1_18
+  - first:
+      213: 7980620448385874595
+    second: Blood_Stain_1_19
+  - first:
+      213: 8937226480121293084
+    second: Blood_Stain_1_20
+  - first:
+      213: -8011169321146165820
+    second: Blood_Stain_1_21
+  - first:
+      213: -1668978978706397760
+    second: Blood_Stain_1_22
+  - first:
+      213: -7753454692713048866
+    second: Blood_Stain_1_23
+  - first:
+      213: 3838003853900203718
+    second: Blood_Stain_1_24
+  - first:
+      213: 8045226418244485441
+    second: Blood_Stain_1_25
+  - first:
+      213: -3945014239029084002
+    second: Blood_Stain_1_26
+  - first:
+      213: 3391400535590449706
+    second: Blood_Stain_1_27
+  - first:
+      213: -2567218501726481260
+    second: Blood_Stain_1_28
+  - first:
+      213: -6210810718721927049
+    second: Blood_Stain_1_29
+  - first:
+      213: 2774262863395155018
+    second: Blood_Stain_1_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood_Stain_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 909
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49440f0214cc1040800000000000000
+      internalID: 4619782899615680844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_1
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 922
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb872a51cd1f1f440800000000000000
+      internalID: 4968017791524436156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 888
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3ecfe93d7cf7e90800000000000000
+      internalID: -7025677181955284008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 845
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04566f2f7a608df0800000000000000
+      internalID: -180026890606193651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd13b5816e4f5bc0800000000000000
+      internalID: -3792226180460765698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_5
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 681
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48369b3181763910800000000000000
+      internalID: 1816764299554994250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 657
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd16408cd940c010800000000000000
+      internalID: 1207045911529004537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 584
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd3beb28bb1a3770800000000000000
+      internalID: 8591209716987411953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 425
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e982bd60196dc70800000000000000
+      internalID: 8995536764351848032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 428
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111a5e3d53913f220800000000000000
+      internalID: 2518384335609241873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_10
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 405
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35775659ede299db0800000000000000
+      internalID: -4784741595580369069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 385
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3fc8286489eb160800000000000000
+      internalID: 7043234295859442626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_12
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd35c3d996b07bdd0800000000000000
+      internalID: -2470493322351979555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faac92833dbeef510800000000000000
+      internalID: 1584963411293883055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 42
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a1eda03b7e0b00800000000000000
+      internalID: 796709633097050559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_15
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 70
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8cb32848270cb00800000000000000
+      internalID: 846802643391858885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_16
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de3688fea48c3b0800000000000000
+      internalID: -5492057352932430556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb2dd97086e77060800000000000000
+      internalID: 6951277989344390134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 56
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db44720a23bba150800000000000000
+      internalID: 5884994331100859351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 46
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa3241c30cd0ce60800000000000000
+      internalID: 7980620448385874595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 37
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1928d8d128670c70800000000000000
+      internalID: 8937226480121293084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 46
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5539982fb92d090800000000000000
+      internalID: -8011169321146165820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 13
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c56c94267896d8e0800000000000000
+      internalID: -1668978978706397760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 14
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4d0ca5902366490800000000000000
+      internalID: -7753454692713048866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 25
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c64d46ab24534530800000000000000
+      internalID: 3838003853900203718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1410d0d4dc266af60800000000000000
+      internalID: 8045226418244485441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9040d0837e7049c0800000000000000
+      internalID: -3945014239029084002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2230f691dca01f20800000000000000
+      internalID: 3391400535590449706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_28
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49458c7df586f5cd0800000000000000
+      internalID: -2567218501726481260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778146fbe84cec9a0800000000000000
+      internalID: -6210810718721927049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Stain_1_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ce9362069208620800000000000000
+      internalID: 2774262863395155018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blood_Stain_1_0: 4619782899615680844
+      Blood_Stain_1_1: 4968017791524436156
+      Blood_Stain_1_10: -4784741595580369069
+      Blood_Stain_1_11: 7043234295859442626
+      Blood_Stain_1_12: -2470493322351979555
+      Blood_Stain_1_13: 1584963411293883055
+      Blood_Stain_1_14: 796709633097050559
+      Blood_Stain_1_15: 846802643391858885
+      Blood_Stain_1_16: -5492057352932430556
+      Blood_Stain_1_17: 6951277989344390134
+      Blood_Stain_1_18: 5884994331100859351
+      Blood_Stain_1_19: 7980620448385874595
+      Blood_Stain_1_2: -7025677181955284008
+      Blood_Stain_1_20: 8937226480121293084
+      Blood_Stain_1_21: -8011169321146165820
+      Blood_Stain_1_22: -1668978978706397760
+      Blood_Stain_1_23: -7753454692713048866
+      Blood_Stain_1_24: 3838003853900203718
+      Blood_Stain_1_25: 8045226418244485441
+      Blood_Stain_1_26: -3945014239029084002
+      Blood_Stain_1_27: 3391400535590449706
+      Blood_Stain_1_28: -2567218501726481260
+      Blood_Stain_1_29: -6210810718721927049
+      Blood_Stain_1_3: -180026890606193651
+      Blood_Stain_1_30: 2774262863395155018
+      Blood_Stain_1_4: -3792226180460765698
+      Blood_Stain_1_5: 1816764299554994250
+      Blood_Stain_1_6: 1207045911529004537
+      Blood_Stain_1_7: 8591209716987411953
+      Blood_Stain_1_8: 8995536764351848032
+      Blood_Stain_1_9: 2518384335609241873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

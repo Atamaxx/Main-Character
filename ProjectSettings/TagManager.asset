@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Edge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Platforms
+  - Drawing
+  - LineObstacles
+  - Filler
+  - Line
+  - 
+  - 
+  - Special
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 3262613447
+    locked: 0
+  - name: Background
+    uniqueID: 438842449
+    locked: 0
+  - name: LevelObj (-)
+    uniqueID: 3634756973
+    locked: 0
+  - name: Platforms (-)
+    uniqueID: 3470786275
+    locked: 0
+  - name: Hideout
+    uniqueID: 4096676013
+    locked: 0
+  - name: Line
+    uniqueID: 2827870119
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2275420407
+    locked: 0
+  - name: Platforms (+)
+    uniqueID: 3188380997
+    locked: 0
+  - name: LevelObj (+)
+    uniqueID: 3696619037
+    locked: 0
+  - name: Front
+    uniqueID: 3743919113
+    locked: 0
+  m_RenderingLayers:
+  - Default
